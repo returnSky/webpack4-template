@@ -17,7 +17,7 @@ A template configuration of webpack4.
 * babel-preset-env: ^1.7.0
 * babel-preset-react: ^6.24.1
 * babel-plugin-react-transform: ^3.0.0
-* babel-loader: ^7.1.5,
+* babel-loader: ^7.1.5
 * css-loader: ^1.0.0
 * postcss-loader: ^3.0.0
 * autoprefixer: ^9.1.3
